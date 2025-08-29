@@ -6,4 +6,6 @@
 
 
 ###**Instalacion**
+  
+  
   Para ello necesitamos instalar Python y un editor de codigo.
